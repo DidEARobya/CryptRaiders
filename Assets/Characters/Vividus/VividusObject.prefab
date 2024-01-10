@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4372312554039159684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4656518025607265069}
+  - component: {fileID: -7422934620475346841}
+  m_Layer: 0
+  m_Name: VividusObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4656518025607265069
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4372312554039159684}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.3483195, y: -0.21028818, z: -0.25401014}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-7422934620475346841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4372312554039159684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eaba500ae3ce39f4d88de1658ea9f361, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterData: {fileID: 11400000, guid: 24a79743854bd2248a95522b5da4dfdf, type: 2}
+  activeData: {fileID: 0}
+  characterAI: {fileID: 0}
+  characterModel: {fileID: 1756887371983414288, guid: d4e1d9e9e995f1942b17d56bab058997, type: 3}
+  level: 0
+  skillOne: {fileID: 2259211328607752984, guid: 7f05ad5a9fc89b040b1d4d86a1233b32, type: 3}
+  skillTwo: {fileID: 898431683711439822, guid: 00493af0469288e42930b4af5879b7ae, type: 3}
+  skillThree: {fileID: -890305402132962473, guid: e34dabcbfe3c9424eba26f41e5d85c89, type: 3}
+  prio1: {fileID: 0}
+  prio2: {fileID: 0}
+  prio3: {fileID: 0}
+  skillTwoPrio: 2
+  skillThreePrio: 1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 222f753258503564d83326736ce36915, type: 3}
+  m_Name: HemalSkillThree
+  m_EditorClassIdentifier: 
+  skillName: HemalSkillThree
+  skillDescription: 'Fills the turn meter of all allies by 10% and revives any dead
+    allies. If an ally is revived, grants an extra turn. '
+  skillRole: 0
+  skillIcon: {fileID: 3302779177366601250, guid: 67e0dab19f5542449a3e9ec437bc31a5, type: 3}
+  skillCooldown: 5
+  skillScaleType: 0
+  skillType: 2
+  amountOfTargets: 0

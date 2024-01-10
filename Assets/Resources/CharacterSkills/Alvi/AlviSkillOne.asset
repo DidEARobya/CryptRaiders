@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4149f3f1926561f49b5e5634929864fa, type: 3}
+  m_Name: AlviSkillOne
+  m_EditorClassIdentifier: 
+  skillName: AlviSkillOne
+  skillDescription: Attacks all enemies, has a 15% of placing a poison debuff for
+    one turn.
+  skillRole: 1
+  skillIcon: {fileID: 8359604885670561445, guid: ae36ce1f608cb98479d5339110e83cb6, type: 3}
+  skillCooldown: 0
+  skillScaleType: 0
+  skillType: 2
+  amountOfTargets: 0

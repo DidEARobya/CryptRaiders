@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dbaec2df188a514cb3c5195eacf50f4, type: 3}
+  m_Name: AlviSkillThree
+  m_EditorClassIdentifier: 
+  skillName: AlviSkillThree
+  skillDescription: Resets the cooldowns of all allies except this champion, then
+    fills their turn meter by 30%
+  skillRole: 0
+  skillIcon: {fileID: 3302779177366601250, guid: b14629b359296b74bbbd01c4d478775a, type: 3}
+  skillCooldown: 5
+  skillScaleType: 0
+  skillType: 2
+  amountOfTargets: 0

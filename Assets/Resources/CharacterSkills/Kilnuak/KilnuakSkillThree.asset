@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c371ec0013bcaa4ab4d15df1ab1e023, type: 3}
+  m_Name: KilnuakSkillThree
+  m_EditorClassIdentifier: 
+  skillName: KilnuakSkillThree
+  skillDescription: Places an Increase Attack buff on this champion for three turns.
+    Grants an extra turn.
+  skillRole: 0
+  skillIcon: {fileID: 3302779177366601250, guid: 21cc08aba3b47c24599fe2583883495c, type: 3}
+  skillCooldown: 4
+  skillScaleType: 0
+  skillType: 3
+  amountOfTargets: 0

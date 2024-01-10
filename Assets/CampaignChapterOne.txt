@@ -1,0 +1,64 @@
+{
+  "dataKey": [
+    "StageOneIcon",
+    "StageTwoIcon(1)",
+    "StageTwoIcon(2)",
+    "StageThreeIcon(1)",
+    "StageThreeIcon(2)",
+    "StageThreeIcon(3)",
+    "ChapterBossStageIcon"
+  ],
+  "dataValue": [
+    {
+      "isComplete": true,
+      "isActive": false,
+      "stageName": "StageOneIcon",
+      "name": "",
+      "hideFlags": 0
+    },
+    {
+      "isComplete": true,
+      "isActive": false,
+      "stageName": "StageTwoIcon(1)",
+      "name": "",
+      "hideFlags": 0
+    },
+    {
+      "isComplete": false,
+      "isActive": false,
+      "stageName": "StageTwoIcon(2)",
+      "name": "",
+      "hideFlags": 0
+    },
+    {
+      "isComplete": false,
+      "isActive": false,
+      "stageName": "StageThreeIcon(1)",
+      "name": "",
+      "hideFlags": 0
+    },
+    {
+      "isComplete": true,
+      "isActive": false,
+      "stageName": "StageThreeIcon(2)",
+      "name": "",
+      "hideFlags": 0
+    },
+    {
+      "isComplete": false,
+      "isActive": false,
+      "stageName": "StageThreeIcon(3)",
+      "name": "",
+      "hideFlags": 0
+    },
+    {
+      "isComplete": false,
+      "isActive": false,
+      "stageName": "ChapterBossStageIcon",
+      "name": "",
+      "hideFlags": 0
+    }
+  ],
+  "name": "",
+  "hideFlags": 0
+}

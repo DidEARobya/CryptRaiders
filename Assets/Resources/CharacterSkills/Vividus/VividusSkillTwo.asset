@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3bb4d5e73365a74f9b6d145c38793d3, type: 3}
+  m_Name: VividusSkillTwo
+  m_EditorClassIdentifier: 
+  skillName: VividusSkillTwo
+  skillDescription: Heals all allies by 30% of this champions max hp, and then places
+    an increase defense buff on them.
+  skillRole: 0
+  skillIcon: {fileID: 4910880327967740887, guid: 10a0a439a0e19284abef685640953e5f, type: 3}
+  skillCooldown: 3
+  skillScaleType: 0
+  skillType: 2
+  amountOfTargets: 0

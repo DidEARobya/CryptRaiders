@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7107054220341926136
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1432137971800251097}
+  - component: {fileID: 3380116676497422088}
+  m_Layer: 0
+  m_Name: AlviObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1432137971800251097
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7107054220341926136}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.3483195, y: -0.21028818, z: -0.25401014}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3380116676497422088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7107054220341926136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc342334bbfd1c439577c707ecc0af2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterData: {fileID: 11400000, guid: a00647a006604034fa2550824e96b013, type: 2}
+  activeData: {fileID: 0}
+  characterAI: {fileID: 0}
+  characterModel: {fileID: 1756887371983414288, guid: 74a6faa234bd1f0488997472012c2d11, type: 3}
+  level: 0
+  skillOne: {fileID: 5711888243310096220, guid: 3eda00d035faff44b896b0a130aa61d1, type: 3}
+  skillTwo: {fileID: 6104322814561945714, guid: 53d1f6548bd68214392ba55a0f23c85f, type: 3}
+  skillThree: {fileID: -1611483572780484292, guid: 6399b762b4bcce749a49f97796606ae2, type: 3}
+  prio1: {fileID: 0}
+  prio2: {fileID: 0}
+  prio3: {fileID: 0}
+  skillTwoPrio: 1
+  skillThreePrio: 2

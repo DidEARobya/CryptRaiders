@@ -1,0 +1,52 @@
+{
+  "dataKey": [
+    "Alvi",
+    "Vuduin"
+  ],
+  "dataValue": [
+    {
+      "characterData": {
+        "characterName": "Alvi",
+        "baselevel": 1,
+        "baseHealth": 18592,
+        "baseAttack": 926,
+        "baseDefense": 1394,
+        "baseSpeed": 105,
+        "scaleType": 0,
+        "roleType": 0,
+        "skillTwoPrio": 0,
+        "skillThreePrio": 0,
+        "name": "Alvi",
+        "hideFlags": 0
+      },
+      "level": 200,
+      "skillTwoPrio": 1,
+      "skillThreePrio": 2,
+      "name": "",
+      "hideFlags": 0
+    },
+    {
+      "characterData": {
+        "characterName": "Vuduin",
+        "baselevel": 1,
+        "baseHealth": 17348,
+        "baseAttack": 1423,
+        "baseDefense": 1078,
+        "baseSpeed": 101,
+        "scaleType": 0,
+        "roleType": 1,
+        "skillTwoPrio": 0,
+        "skillThreePrio": 0,
+        "name": "Vuduin",
+        "hideFlags": 0
+      },
+      "level": 200,
+      "skillTwoPrio": 2,
+      "skillThreePrio": 1,
+      "name": "",
+      "hideFlags": 0
+    }
+  ],
+  "name": "",
+  "hideFlags": 0
+}

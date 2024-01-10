@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41bbc9313874e154cbfc67870879e8f1, type: 3}
+  m_Name: VividusSkillOne
+  m_EditorClassIdentifier: 
+  skillName: VividusSkillOne
+  skillDescription: Attacks a single enemy, and then heals the lowest health ally
+    by 5% of this champions max hp.
+  skillRole: 1
+  skillIcon: {fileID: 435639842760166660, guid: 2d6b0b2912689674b89adcd6a4cf57ee, type: 3}
+  skillCooldown: 0
+  skillScaleType: 0
+  skillType: 0
+  amountOfTargets: 0
